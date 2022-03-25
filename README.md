@@ -1,6 +1,8 @@
 # RPG
 This is an RPG. Submit a pull request to participate.
 
+
+# Personas
 [Personas](Personas.md) must include the following:
 
 * An identifier
