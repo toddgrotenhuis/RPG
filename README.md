@@ -1,7 +1,7 @@
 # RPG
 This is an RPG. Submit a pull request to participate.
 
-[[Personas]] must include the following:
+[Personas](Personas.md) must include the following:
 
 * An identifier
 * Something they are good at
