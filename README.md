@@ -1,6 +1,8 @@
 # RPG
 This is an RPG. Submit a pull request to participate.
 
+# The Situation
+[The Situation](Situation.md) contains the latest.
 
 # Personas
 [Personas](Personas.md) must include the following:
